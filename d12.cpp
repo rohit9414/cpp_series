@@ -3,7 +3,7 @@
 #include<string>
 #include<algorithm>
 using namespace std;
-//character string
+//character string problems 
 int main(){
 // char str[]={'a','b','c'};// method 1
 // char str[]="rohit";//method 2

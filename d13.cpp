@@ -3,7 +3,7 @@
 #include<string>
 #include<algorithm>
 using namespace std;
-
+// check if the given string is palindrome or not
 bool isalnum(char ch){
     if((tolower(ch)>=0 && tolower(ch)<=9)||(tolower(ch)>= 'a' && tolower(ch)<= 'z')){
         return true;
