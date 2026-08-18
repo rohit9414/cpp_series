@@ -16,8 +16,6 @@ char alphabate(char n){
          }
     }
 }
-
 int main(){
-    
-    cout<<alphabate('a')<<endl;
+     cout<<alphabate('a')<<endl;
 }
