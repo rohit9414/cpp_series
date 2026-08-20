@@ -11,7 +11,7 @@ using namespace std;
 
 
 //pointer 
-//  void swap(int* a,int* b){//pass by reference
+//  void swap(int* a,int* b){//pass by pointer.
 //        int temp;
 //        cout<<*a<<" "<<*b<<" ";
 //        temp=*a;
@@ -20,8 +20,8 @@ using namespace std;
 //        cout<<*a<<" "<<*b<<" ";
 //  }
 
-//pass by reference method 2
-//  void swap(int &a,int &b){//pass by reference
+//pass by reference .
+//  void swap(int &a,int &b){//pass by reference, here addresse4s is passing.
 //        int temp;
 //        cout<<a<<" "<<b<<" ";
 //        temp=a;
@@ -58,7 +58,7 @@ using namespace std;
 
     // int a=10;
     // int b=20;
-    // // swap(&a,&b);//pass by reference.
+    // // swap(&a,&b);//pass by pointer.
     // swap(a,b);
     // cout<<" "<<a<<" "<<b<<endl;//pass by value.
     
