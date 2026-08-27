@@ -15,4 +15,16 @@ everything doing well till now
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohit9414/cpp_series/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rohit9414/cpp_series/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rohit9414/cpp_series/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rohit9414/cpp_series/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
