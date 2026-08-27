@@ -4,12 +4,10 @@ public:
        int a=0;
        int b=1;
        int c;
-       if(n==0){
-        return 0;
+       if(n<=1){
+        return n;
        }
-       if(n==1){
-        return 1;
-       }
+      
        for(int i=1;i<n;i++){
         int c=a+b;
         a=b;
