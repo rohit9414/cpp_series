@@ -2,7 +2,7 @@
 using namespace std;
  string polin(string str,int srt,int end){
        if(srt>=end){
-        return "a polindrom";
+        return "a plindrom";
        }
     if(str[srt]!=str[end]){
         
@@ -16,3 +16,6 @@ int main(){
   string ans=polin(str,0,len);
   cout<<ans<<endl;
 }
+
+//to convert a lowercase string into upper case string use "A+r-a";
+//viceversa :"a+R-A";
