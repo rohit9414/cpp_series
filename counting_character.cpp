@@ -12,7 +12,7 @@ void count(string str,int n){
    }
 }
 int main(){
-    string str="ABBBAABBACCCKLSJCIWJGFQPIEWH";
+    string str="ABBBAABBACCCKLSJCIWJGFQPIEWZZZZZZZZZZZZZZH";
     int len=str.length();
     count(str,len);
 }
