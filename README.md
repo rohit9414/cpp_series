@@ -11,6 +11,7 @@ everything doing well till now
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohit9414/cpp_series/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/rohit9414/cpp_series/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/rohit9414/cpp_series/tree/master/0078-subsets) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ everything doing well till now
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/rohit9414/cpp_series/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/rohit9414/cpp_series/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
