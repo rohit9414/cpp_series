@@ -7,7 +7,7 @@ public:
         }
         for(int i=0;i<visited.size();i++){
            if(visited[i]==0){
-             temp.push_back(nums[i]);
+            temp.push_back(nums[i]);
             visited[i]=1;
             permut(nums,temp,ans,visited);
             temp.pop_back();
