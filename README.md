@@ -12,6 +12,7 @@ everything doing well till now
 | ------- |
 | [0001-two-sum](https://github.com/rohit9414/cpp_series/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/rohit9414/cpp_series/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rohit9414/cpp_series/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/rohit9414/cpp_series/tree/master/0078-subsets) |
 ## Hash Table
 |  |
@@ -40,9 +41,14 @@ everything doing well till now
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rohit9414/cpp_series/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rohit9414/cpp_series/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/rohit9414/cpp_series/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rohit9414/cpp_series/tree/master/0078-subsets) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/rohit9414/cpp_series/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
