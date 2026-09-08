@@ -8,7 +8,7 @@ int count_sum_of_subsequnece(int arr[],int n,int idx,int tg){
         if(idx==n||tg<0){
          return 0;
         }
-       return count_sum_of_subsequnece(arr,n,idx+1,tg) + count_sum_of_subsequnece(arr,n,idx+1,tg-arr[idx]);
+       return count_sum_of_subsequnece(arr,n,idx+1,tg) + count_sum_of_subsequnece(arr,n,idx,tg-arr[idx]);
     }
 int main(){
     int arr[]={2,3,4};
