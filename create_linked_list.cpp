@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+// insertion ,deletion ,updating value, searching and traversal of linked list
 class node
 {
     public:
@@ -69,11 +70,15 @@ void delete_node(node *head,int pos)
 {
     node* temp,*ptr;
     temp=head;
-    if(pos==1){
+    if(pos==1)
+    {
         head=temp->next;
         delete temp;
-    }else {
-        for(int i=1;i<pos-1;i++){
+    }
+    else
+    {
+        for(int i=1;i<pos-1;i++)
+        {
             temp=temp->next;
         }
         if(temp->next->next==NULL)
@@ -92,6 +97,28 @@ void delete_node(node *head,int pos)
     }
 
 }
+
+bool searching(node* head,int value)
+{
+    node* temp=head;
+    while(temp){
+        if(temp->data==value)
+        {
+            return true;
+        }
+        temp=temp->next;
+    }
+    return false;
+}
+ void update_node(node*head,int pos, int value)
+ {
+    node*temp=head;
+    for(int i=1;i<pos;i++)
+    {
+        temp=temp->next;
+    }
+    temp->data=value;
+ }
 
 void print(node*head){//head is passing as value it does not change the value of head in main function
     node*temp=head;
@@ -118,8 +145,11 @@ int main()
     delete_node(head,3);
     delete_node(head,8);
     // cout<<head<<endl;
-    print(head);
+   
     // cout<<head<<endl;
+    // cout<<searching(head,100)<<endl;
+    // cout<<searching(head,1000)<<endl;
+    update_node(head,3,1000);
+    print(head);
     return 0;
-
 }
