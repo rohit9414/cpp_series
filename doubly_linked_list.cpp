@@ -52,14 +52,31 @@ bool checkPolindrom(node*head)
    }
    return true;
 }
+void reverse(node*head)
+{
+   node*temp=head;
+   while(temp->next)
+   {
+      temp=temp->next;
+
+   }
+   while(temp!=head && head->prev !=temp)
+   {
+      swap(temp->data,head->data);
+      temp=temp->prev;
+      head=head->next;
+   }
+}
 int main()
 {   node*head=NULL;
     insert_node(head,10);
     insert_node(head,20);
     
-    insert_node(head,20);
-    insert_node(head,10);
+    insert_node(head,30);
+    insert_node(head,40);
     print(head);
-    cout<<checkPolindrom(head)<<endl;
+   //  cout<<checkPolindrom(head)<<endl;
+   reverse(head);
+   print(head);
     return 0;
 }
