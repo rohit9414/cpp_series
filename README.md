@@ -18,6 +18,7 @@ everything doing well till now
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohit9414/cpp_series/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/rohit9414/cpp_series/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -56,4 +57,13 @@ everything doing well till now
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rohit9414/cpp_series/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/rohit9414/cpp_series/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rohit9414/cpp_series/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rohit9414/cpp_series/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
