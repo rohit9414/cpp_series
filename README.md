@@ -36,6 +36,7 @@ everything doing well till now
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rohit9414/cpp_series/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/rohit9414/cpp_series/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -51,4 +52,8 @@ everything doing well till now
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/rohit9414/cpp_series/tree/master/0047-permutations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rohit9414/cpp_series/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
