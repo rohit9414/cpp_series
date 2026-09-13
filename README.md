@@ -54,20 +54,31 @@ everything doing well till now
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/rohit9414/cpp_series/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/rohit9414/cpp_series/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rohit9414/cpp_series/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/rohit9414/cpp_series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohit9414/cpp_series/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/rohit9414/cpp_series/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rohit9414/cpp_series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohit9414/cpp_series/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/rohit9414/cpp_series/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rohit9414/cpp_series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohit9414/cpp_series/tree/master/0142-linked-list-cycle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rohit9414/cpp_series/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rohit9414/cpp_series/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
