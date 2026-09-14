@@ -23,6 +23,7 @@ everything doing well till now
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rohit9414/cpp_series/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/rohit9414/cpp_series/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rohit9414/cpp_series/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -38,6 +39,7 @@ everything doing well till now
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rohit9414/cpp_series/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rohit9414/cpp_series/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/rohit9414/cpp_series/tree/master/0509-fibonacci-number) |
 ## Backtracking
@@ -58,6 +60,7 @@ everything doing well till now
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rohit9414/cpp_series/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rohit9414/cpp_series/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/rohit9414/cpp_series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohit9414/cpp_series/tree/master/0142-linked-list-cycle-ii) |
