@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int idx=0,count=0, flag=0;
+        int count=0, flag=0;
         for(int i=0;i<s.size();i++)
         {
           if(s[i]=='(')
@@ -22,8 +22,6 @@ public:
             }
           }
         }
-        if(count>=0)
-        return count;
-        else return -(count);
+     return count;   
     }
 };
