@@ -14,6 +14,7 @@ everything doing well till now
 | [0046-permutations](https://github.com/rohit9414/cpp_series/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rohit9414/cpp_series/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/rohit9414/cpp_series/tree/master/0078-subsets) |
+| [1441-build-an-array-with-stack-operations](https://github.com/rohit9414/cpp_series/tree/master/1441-build-an-array-with-stack-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +90,12 @@ everything doing well till now
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/rohit9414/cpp_series/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/rohit9414/cpp_series/tree/master/1441-build-an-array-with-stack-operations) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/rohit9414/cpp_series/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
