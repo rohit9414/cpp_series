@@ -94,12 +94,14 @@ everything doing well till now
 | [0344-reverse-string](https://github.com/rohit9414/cpp_series/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/rohit9414/cpp_series/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohit9414/cpp_series/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rohit9414/cpp_series/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohit9414/cpp_series/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/rohit9414/cpp_series/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohit9414/cpp_series/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rohit9414/cpp_series/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rohit9414/cpp_series/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
