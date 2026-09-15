@@ -9,58 +9,27 @@ public:
             st.push(s[i]);
         }
         else
-        {   if(st.empty())
-                {
-                    return false;
-                }
+        {   if(st.empty())return false;
+                
             if(s[i]==')')
             {
-                if(st.top()!='(')
-                {
-                    return false;
-                }
-                else
-                {
-                  st.pop();
-                }
+                if(st.top()!='(')return false;
+                else st.pop();
             }
             else if(s[i]==']')
-            {   if(st.empty())
-                {
-                    return false;
-                }
-                if(st.top()!='[')
-                {
-                    return false;
-                }
-                else
-                {
-                    st.pop();
-                }
+            {   if(st.empty())return false;
+                if(st.top()!='[')return false;
+                else st.pop();
             }
             else
-            {   if(st.empty())
-                {
-                    return false;
-                }
-                if(st.top()!='{')
-                {
-                    return false;
-                }
-                else
-                {
-                    st.pop();
-                }
+            {   if(st.empty())return false;
+                if(st.top()!='{')return false;
+                else st.pop();
             }
         }
       }
-      if(!st.empty())
-      {
-        return false;
-      }
-      else
-      {
-        return true;
-      }  
+      if(!st.empty())return false;
+      else return true;
+        
     }
 };
