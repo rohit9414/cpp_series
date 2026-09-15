@@ -4,21 +4,15 @@ public:
         stack<char>st;
         for(int i=0;i<s.size();i++)
         {
-            if(st.empty()&&s[i]!='#')
+            if(s[i]!='#')
             {
                st.push(s[i]); 
             }
-            else if(!st.empty()&&s[i]=='#')
+            else if(!st.empty())
             {
                 st.pop();
             }
-            else
-            {
-                if(s[i]!='#')
-                {
-                    st.push(s[i]);
-                }
-            }
+            
         }
         s.erase(0,s.size());
         while(!st.empty())
@@ -28,21 +22,15 @@ public:
         }
     for(int i=0;i<t.size();i++)
         {
-            if(st.empty()&&t[i]!='#')
+            if(t[i]!='#')
             {
                st.push(t[i]); 
             }
-            else if(!st.empty()&&t[i]=='#')
+            else if(!st.empty())
             {
                 st.pop();
             }
-            else
-            {
-                if(t[i]!='#')
-                {
-                    st.push(t[i]);
-                }
-            }
+            
         }
         t.erase(0,t.size());
         while(!st.empty())
