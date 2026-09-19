@@ -18,7 +18,7 @@ class queue{
    }
    bool isFull()
    {
-     return rear==n-1;
+     return (rear+1)%n==front;
    }
    void push(int num)
    {
@@ -28,15 +28,15 @@ class queue{
      }
      else if(rear==-1)
      {
-       rear++;
+       rear=(rear+1)%n;
        cout<<num<<" is sucessfully pushed at index "<<rear<<endl;
        arr[rear]=num;
-       front++;
+       front=(front+1)%n;
        
         }
     else
     {
-      rear++;
+      rear=(rear+1)%n;
       cout<<num<<" is sucessfully pushed at index "<<rear<<endl;
       arr[rear]=num;
     }
@@ -55,7 +55,7 @@ class queue{
      else
      {
       cout<<arr[front]<<" is sucessfully poped from index "<<front<<endl;
-       front++;
+       front=(front+1)%n;
      }
    }
    int frontEle()
@@ -78,6 +78,8 @@ int main()
     q.push(5);
     q.push(6);
     q.pop();
+    q.push(6);
+    q.frontEle();
    cout<< q.frontEle()<<endl;
         return 0;
 
