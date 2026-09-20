@@ -16,6 +16,7 @@ everything doing well till now
 | [0078-subsets](https://github.com/rohit9414/cpp_series/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rohit9414/cpp_series/tree/master/0084-largest-rectangle-in-histogram) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rohit9414/cpp_series/tree/master/1441-build-an-array-with-stack-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rohit9414/cpp_series/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ everything doing well till now
 | ------- |
 | [0844-backspace-string-compare](https://github.com/rohit9414/cpp_series/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rohit9414/cpp_series/tree/master/1441-build-an-array-with-stack-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rohit9414/cpp_series/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
@@ -132,4 +134,8 @@ everything doing well till now
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rohit9414/cpp_series/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/rohit9414/cpp_series/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
