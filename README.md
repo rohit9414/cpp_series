@@ -104,6 +104,7 @@ everything doing well till now
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohit9414/cpp_series/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rohit9414/cpp_series/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/rohit9414/cpp_series/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rohit9414/cpp_series/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/rohit9414/cpp_series/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/rohit9414/cpp_series/tree/master/0844-backspace-string-compare) |
@@ -138,10 +139,12 @@ everything doing well till now
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rohit9414/cpp_series/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rohit9414/cpp_series/tree/master/0232-implement-queue-using-stacks) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rohit9414/cpp_series/tree/master/2073-time-needed-to-buy-tickets) |
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rohit9414/cpp_series/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rohit9414/cpp_series/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
