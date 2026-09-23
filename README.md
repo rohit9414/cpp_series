@@ -162,4 +162,16 @@ everything doing well till now
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rohit9414/cpp_series/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/rohit9414/cpp_series/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/rohit9414/cpp_series/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/rohit9414/cpp_series/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
