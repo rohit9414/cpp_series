@@ -165,6 +165,7 @@ everything doing well till now
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rohit9414/cpp_series/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/rohit9414/cpp_series/tree/master/0110-balanced-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rohit9414/cpp_series/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -175,10 +176,12 @@ everything doing well till now
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rohit9414/cpp_series/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/rohit9414/cpp_series/tree/master/0110-balanced-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rohit9414/cpp_series/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rohit9414/cpp_series/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/rohit9414/cpp_series/tree/master/0993-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
