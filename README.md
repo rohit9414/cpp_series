@@ -66,6 +66,7 @@ everything doing well till now
 | ------- |
 | [0047-permutations-ii](https://github.com/rohit9414/cpp_series/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/rohit9414/cpp_series/tree/master/0148-sort-list) |
+| [2785-sort-vowels-in-a-string](https://github.com/rohit9414/cpp_series/tree/master/2785-sort-vowels-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -110,6 +111,7 @@ everything doing well till now
 | [1108-defanging-an-ip-address](https://github.com/rohit9414/cpp_series/tree/master/1108-defanging-an-ip-address) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rohit9414/cpp_series/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohit9414/cpp_series/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2785-sort-vowels-in-a-string](https://github.com/rohit9414/cpp_series/tree/master/2785-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
