@@ -33,6 +33,7 @@ everything doing well till now
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohit9414/cpp_series/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/rohit9414/cpp_series/tree/master/0070-climbing-stairs) |
+| [0415-add-strings](https://github.com/rohit9414/cpp_series/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/rohit9414/cpp_series/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -105,6 +106,7 @@ everything doing well till now
 | [0344-reverse-string](https://github.com/rohit9414/cpp_series/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rohit9414/cpp_series/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/rohit9414/cpp_series/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/rohit9414/cpp_series/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/rohit9414/cpp_series/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/rohit9414/cpp_series/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohit9414/cpp_series/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -127,6 +129,7 @@ everything doing well till now
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/rohit9414/cpp_series/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/rohit9414/cpp_series/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rohit9414/cpp_series/tree/master/1441-build-an-array-with-stack-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rohit9414/cpp_series/tree/master/2073-time-needed-to-buy-tickets) |
