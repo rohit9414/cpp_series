@@ -27,6 +27,7 @@ everything doing well till now
 | [0141-linked-list-cycle](https://github.com/rohit9414/cpp_series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohit9414/cpp_series/tree/master/0142-linked-list-cycle-ii) |
 | [0409-longest-palindrome](https://github.com/rohit9414/cpp_series/tree/master/0409-longest-palindrome) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rohit9414/cpp_series/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +109,7 @@ everything doing well till now
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohit9414/cpp_series/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/rohit9414/cpp_series/tree/master/1108-defanging-an-ip-address) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rohit9414/cpp_series/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rohit9414/cpp_series/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
