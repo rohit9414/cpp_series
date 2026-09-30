@@ -23,6 +23,7 @@ everything doing well till now
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohit9414/cpp_series/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rohit9414/cpp_series/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/rohit9414/cpp_series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohit9414/cpp_series/tree/master/0142-linked-list-cycle-ii) |
@@ -32,6 +33,7 @@ everything doing well till now
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohit9414/cpp_series/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/rohit9414/cpp_series/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/rohit9414/cpp_series/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/rohit9414/cpp_series/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/rohit9414/cpp_series/tree/master/0509-fibonacci-number) |
@@ -102,6 +104,7 @@ everything doing well till now
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rohit9414/cpp_series/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rohit9414/cpp_series/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/rohit9414/cpp_series/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rohit9414/cpp_series/tree/master/0345-reverse-vowels-of-a-string) |
