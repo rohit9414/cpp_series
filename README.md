@@ -116,6 +116,7 @@ everything doing well till now
 | [0409-longest-palindrome](https://github.com/rohit9414/cpp_series/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/rohit9414/cpp_series/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/rohit9414/cpp_series/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/rohit9414/cpp_series/tree/master/0686-repeated-string-match) |
 | [0844-backspace-string-compare](https://github.com/rohit9414/cpp_series/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohit9414/cpp_series/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/rohit9414/cpp_series/tree/master/1108-defanging-an-ip-address) |
@@ -218,16 +219,20 @@ everything doing well till now
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohit9414/cpp_series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/rohit9414/cpp_series/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohit9414/cpp_series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/rohit9414/cpp_series/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohit9414/cpp_series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/rohit9414/cpp_series/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohit9414/cpp_series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/rohit9414/cpp_series/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
