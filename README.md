@@ -19,6 +19,7 @@ everything doing well till now
 | [0084-largest-rectangle-in-histogram](https://github.com/rohit9414/cpp_series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/rohit9414/cpp_series/tree/master/0239-sliding-window-maximum) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rohit9414/cpp_series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rohit9414/cpp_series/tree/master/1441-build-an-array-with-stack-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rohit9414/cpp_series/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -244,8 +245,13 @@ everything doing well till now
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohit9414/cpp_series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohit9414/cpp_series/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rohit9414/cpp_series/tree/master/0069-sqrtx) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rohit9414/cpp_series/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rohit9414/cpp_series/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rohit9414/cpp_series/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
