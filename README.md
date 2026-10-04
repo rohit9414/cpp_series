@@ -11,6 +11,7 @@ everything doing well till now
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohit9414/cpp_series/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohit9414/cpp_series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/rohit9414/cpp_series/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rohit9414/cpp_series/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/rohit9414/cpp_series/tree/master/0078-subsets) |
@@ -235,4 +236,8 @@ everything doing well till now
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohit9414/cpp_series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/rohit9414/cpp_series/tree/master/0686-repeated-string-match) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohit9414/cpp_series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
