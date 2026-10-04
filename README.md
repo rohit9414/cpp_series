@@ -38,6 +38,7 @@ everything doing well till now
 | [0002-add-two-numbers](https://github.com/rohit9414/cpp_series/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/rohit9414/cpp_series/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rohit9414/cpp_series/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/rohit9414/cpp_series/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rohit9414/cpp_series/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/rohit9414/cpp_series/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/rohit9414/cpp_series/tree/master/0509-fibonacci-number) |
@@ -242,4 +243,9 @@ everything doing well till now
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohit9414/cpp_series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohit9414/cpp_series/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rohit9414/cpp_series/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rohit9414/cpp_series/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
