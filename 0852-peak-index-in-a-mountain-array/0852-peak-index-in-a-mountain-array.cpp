@@ -8,7 +8,7 @@ public:
             {
                 return mid;
             }
-            else if(arr[mid-1]<arr[mid])
+            else if(arr[mid]<arr[mid+1])
             {
                 srt=mid+1;
             }
