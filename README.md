@@ -23,6 +23,7 @@ everything doing well till now
 | [0239-sliding-window-maximum](https://github.com/rohit9414/cpp_series/tree/master/0239-sliding-window-maximum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohit9414/cpp_series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rohit9414/cpp_series/tree/master/1441-build-an-array-with-stack-operations) |
+| [1539-kth-missing-positive-number](https://github.com/rohit9414/cpp_series/tree/master/1539-kth-missing-positive-number) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rohit9414/cpp_series/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -250,6 +251,7 @@ everything doing well till now
 | [0069-sqrtx](https://github.com/rohit9414/cpp_series/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohit9414/cpp_series/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohit9414/cpp_series/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/rohit9414/cpp_series/tree/master/1539-kth-missing-positive-number) |
 ## Newton's Method
 |  |
 | ------- |
