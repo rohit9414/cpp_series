@@ -11,6 +11,7 @@ everything doing well till now
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohit9414/cpp_series/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rohit9414/cpp_series/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohit9414/cpp_series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohit9414/cpp_series/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/rohit9414/cpp_series/tree/master/0046-permutations) |
@@ -243,6 +244,7 @@ everything doing well till now
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rohit9414/cpp_series/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohit9414/cpp_series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohit9414/cpp_series/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rohit9414/cpp_series/tree/master/0069-sqrtx) |
