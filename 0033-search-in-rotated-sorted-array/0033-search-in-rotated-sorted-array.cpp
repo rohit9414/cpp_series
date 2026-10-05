@@ -7,9 +7,9 @@ public:
             mid=srt+(end-srt)/2;
             if(target==nums[mid])
             return mid;
-            if(nums[srt]<=nums[mid]&&nums[mid]>=nums[0])
+            if(nums[srt]<=nums[mid])
             {
-                if(target<nums[mid]&&target>=nums[0])
+                if(target<=nums[mid]&&target>=nums[srt])
                 {
                     end=mid-1;
                 }
@@ -20,7 +20,7 @@ public:
             }
             else
             {
-                if(target>nums[mid]&&target<nums[0])
+                if(target>=nums[mid]&&target<=nums[end])
                 {
                     srt=mid+1;
                 }
