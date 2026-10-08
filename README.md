@@ -24,6 +24,7 @@ everything doing well till now
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohit9414/cpp_series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rohit9414/cpp_series/tree/master/1441-build-an-array-with-stack-operations) |
 | [1539-kth-missing-positive-number](https://github.com/rohit9414/cpp_series/tree/master/1539-kth-missing-positive-number) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/rohit9414/cpp_series/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rohit9414/cpp_series/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
