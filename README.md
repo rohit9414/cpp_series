@@ -16,6 +16,7 @@ everything doing well till now
 | [0035-search-insert-position](https://github.com/rohit9414/cpp_series/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/rohit9414/cpp_series/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rohit9414/cpp_series/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/rohit9414/cpp_series/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/rohit9414/cpp_series/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rohit9414/cpp_series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -147,6 +148,7 @@ everything doing well till now
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rohit9414/cpp_series/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/rohit9414/cpp_series/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/rohit9414/cpp_series/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/rohit9414/cpp_series/tree/master/0867-transpose-matrix) |
@@ -266,5 +268,6 @@ everything doing well till now
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rohit9414/cpp_series/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/rohit9414/cpp_series/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
