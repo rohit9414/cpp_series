@@ -22,6 +22,7 @@ everything doing well till now
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohit9414/cpp_series/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/rohit9414/cpp_series/tree/master/0239-sliding-window-maximum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohit9414/cpp_series/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/rohit9414/cpp_series/tree/master/0867-transpose-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rohit9414/cpp_series/tree/master/1441-build-an-array-with-stack-operations) |
 | [1539-kth-missing-positive-number](https://github.com/rohit9414/cpp_series/tree/master/1539-kth-missing-positive-number) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/rohit9414/cpp_series/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -148,6 +149,7 @@ everything doing well till now
 | ------- |
 | [0415-add-strings](https://github.com/rohit9414/cpp_series/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/rohit9414/cpp_series/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/rohit9414/cpp_series/tree/master/0867-transpose-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rohit9414/cpp_series/tree/master/1441-build-an-array-with-stack-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rohit9414/cpp_series/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
@@ -261,4 +263,8 @@ everything doing well till now
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohit9414/cpp_series/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/rohit9414/cpp_series/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
