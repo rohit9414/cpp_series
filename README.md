@@ -18,6 +18,7 @@ everything doing well till now
 | [0046-permutations](https://github.com/rohit9414/cpp_series/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rohit9414/cpp_series/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/rohit9414/cpp_series/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/rohit9414/cpp_series/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rohit9414/cpp_series/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rohit9414/cpp_series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -257,6 +258,7 @@ everything doing well till now
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohit9414/cpp_series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohit9414/cpp_series/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rohit9414/cpp_series/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/rohit9414/cpp_series/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohit9414/cpp_series/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohit9414/cpp_series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/rohit9414/cpp_series/tree/master/1539-kth-missing-positive-number) |
@@ -272,5 +274,6 @@ everything doing well till now
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rohit9414/cpp_series/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/rohit9414/cpp_series/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/rohit9414/cpp_series/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
