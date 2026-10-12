@@ -23,6 +23,7 @@ everything doing well till now
 | [0084-largest-rectangle-in-histogram](https://github.com/rohit9414/cpp_series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohit9414/cpp_series/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/rohit9414/cpp_series/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/rohit9414/cpp_series/tree/master/0239-sliding-window-maximum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohit9414/cpp_series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/rohit9414/cpp_series/tree/master/0867-transpose-matrix) |
@@ -39,6 +40,7 @@ everything doing well till now
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/rohit9414/cpp_series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohit9414/cpp_series/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/rohit9414/cpp_series/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/rohit9414/cpp_series/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohit9414/cpp_series/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
@@ -84,6 +86,7 @@ everything doing well till now
 | [0018-4sum](https://github.com/rohit9414/cpp_series/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/rohit9414/cpp_series/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/rohit9414/cpp_series/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/rohit9414/cpp_series/tree/master/0169-majority-element) |
 | [2785-sort-vowels-in-a-string](https://github.com/rohit9414/cpp_series/tree/master/2785-sort-vowels-in-a-string) |
 ## Linked List
 |  |
@@ -114,6 +117,7 @@ everything doing well till now
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/rohit9414/cpp_series/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/rohit9414/cpp_series/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -276,4 +280,12 @@ everything doing well till now
 | [0054-spiral-matrix](https://github.com/rohit9414/cpp_series/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rohit9414/cpp_series/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/rohit9414/cpp_series/tree/master/0867-transpose-matrix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rohit9414/cpp_series/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rohit9414/cpp_series/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
