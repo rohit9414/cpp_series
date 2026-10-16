@@ -27,6 +27,7 @@ everything doing well till now
 | [0239-sliding-window-maximum](https://github.com/rohit9414/cpp_series/tree/master/0239-sliding-window-maximum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohit9414/cpp_series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/rohit9414/cpp_series/tree/master/0867-transpose-matrix) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rohit9414/cpp_series/tree/master/1441-build-an-array-with-stack-operations) |
 | [1539-kth-missing-positive-number](https://github.com/rohit9414/cpp_series/tree/master/1539-kth-missing-positive-number) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/rohit9414/cpp_series/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -152,6 +153,7 @@ everything doing well till now
 | [0678-valid-parenthesis-string](https://github.com/rohit9414/cpp_series/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/rohit9414/cpp_series/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohit9414/cpp_series/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rohit9414/cpp_series/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rohit9414/cpp_series/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
@@ -179,6 +181,7 @@ everything doing well till now
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rohit9414/cpp_series/tree/master/0084-largest-rectangle-in-histogram) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -218,6 +221,7 @@ everything doing well till now
 | [0110-balanced-binary-tree](https://github.com/rohit9414/cpp_series/tree/master/0110-balanced-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rohit9414/cpp_series/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/rohit9414/cpp_series/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -236,6 +240,7 @@ everything doing well till now
 | [0110-balanced-binary-tree](https://github.com/rohit9414/cpp_series/tree/master/0110-balanced-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rohit9414/cpp_series/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/rohit9414/cpp_series/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -304,4 +309,5 @@ everything doing well till now
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rohit9414/cpp_series/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rohit9414/cpp_series/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
