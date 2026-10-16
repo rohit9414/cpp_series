@@ -14,7 +14,7 @@ public:
     TreeNode*bst(vector<int>&pre,int low,int upp,int &idx)
     {
 
-        if(idx==pre.size()||low>pre[idx]||pre[idx]>upp)
+        if(idx==pre.size()||low>pre[idx]&&pre[idx]<upp||pre[idx]>upp&&pre[idx]>low)
         return NULL;
         TreeNode*root=new TreeNode(pre[idx]);
         idx++;
