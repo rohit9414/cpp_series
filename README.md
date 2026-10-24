@@ -216,6 +216,7 @@ everything doing well till now
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/rohit9414/cpp_series/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/rohit9414/cpp_series/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rohit9414/cpp_series/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rohit9414/cpp_series/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -228,6 +229,7 @@ everything doing well till now
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/rohit9414/cpp_series/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/rohit9414/cpp_series/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rohit9414/cpp_series/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/rohit9414/cpp_series/tree/master/0110-balanced-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rohit9414/cpp_series/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -237,6 +239,7 @@ everything doing well till now
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/rohit9414/cpp_series/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/rohit9414/cpp_series/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rohit9414/cpp_series/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rohit9414/cpp_series/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohit9414/cpp_series/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -247,6 +250,7 @@ everything doing well till now
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rohit9414/cpp_series/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rohit9414/cpp_series/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rohit9414/cpp_series/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rohit9414/cpp_series/tree/master/0783-minimum-distance-between-bst-nodes) |
